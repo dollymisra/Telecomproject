@@ -2,7 +2,7 @@
 
 Full telecom analysis 
 
-Dockerfile is excluded. Project includes setup.py, tests, and CI workflow.
+
 """
 
 import os, argparse, json
